@@ -1,0 +1,2 @@
+ŞİFRELENECEK METİN.
+Şifrelenecek metin bu txt dosyasına yazılacaktır.
